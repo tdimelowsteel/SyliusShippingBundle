@@ -15,7 +15,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Paweł Jędrzejewski",
+            "name": "Pawe\u0142 J\u0119drzejewski",
             "homepage": "https://pjedrzejewski.com"
         },
         {
@@ -35,9 +35,6 @@
         "sylius/resource-bundle": "^1.7",
         "sylius/shipping": "^1.6",
         "symfony/framework-bundle": "^5.4"
-    },
-    "conflict": {
-        "twig/twig": "^3.0"
     },
     "require-dev": {
         "doctrine/orm": "^2.7",
